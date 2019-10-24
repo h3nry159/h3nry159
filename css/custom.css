@@ -1,0 +1,72 @@
+body{
+
+
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.container {
+  padding: 0 !important;
+ 
+
+}
+#myNavbar {
+	
+	border: 1px #474C52 solid;
+	
+}
+
+#brand{
+	letter-spacing: 2px;
+	font-size: 15px;
+	font-family: sans-serif;
+
+}
+
+#brand:hover{
+	font-size: 17px;
+	font-family: sans-serif;
+}
+
+#nav-items li a{
+	font-size: 13px;
+	font-weight: bold;;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+
+#nav-items li a:hover {
+	color: #69717B;
+	
+}
+
+
+
+
+}
+.glyphicon {
+	font-size: 35px;
+	
+	margin-top: 15px;
+	margin-bottom: 15px;
+	box-shadow: 1px 1px 2px 2px #929DAA ;
+
+}
+
+
+#button a{
+	background-color: #0D7DE5;
+	border:none;
+}
+
+#myNavbar{
+	padding-right: 0;
+  padding-left: 0;
+  margin-right: 0;
+  margin-left: 0;
+}

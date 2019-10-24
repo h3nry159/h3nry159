@@ -1,0 +1,46 @@
+/* color de letra y fondo del encabezado de pantalla, tamaño de letra h2*/
+header {
+	background:#3F3D3D;
+	color:#fff;
+}
+
+
+/* color de letra y fondo del pie de la pagina, tamaño de letra h2*/
+.footer {
+	background:#530202;
+	color:#fff;
+}
+
+/*La parte central de la pagina a mostrar es tonalidad blanca*/
+
+/*Titulos con h3 y color negro*/
+
+/*Contenido con el tamaño de letra por default que les tire la plataforma en la que trabajan y color negro, justificado (para mantener
+el orden de la informacion)*/
+
+/*Para Label igual color negro y letra por default*/
+
+/*Para textbox diseño por default y estandarizen los tamaños segun convenga en cada formulario, para mi un size de 20 caracteres estaria bien
+ya que en el sistema no se escribira mucho, la mayoria de datos se cargaran, y por favor que vayan dentro de una tabla por cuestiones de simetria*/
+
+/*si ocupan un crud o cualquier procedimiento los botones iran con las especificaciones de mas abajo segun bootstrap y en el siguiente orden:
+Guardar, Importar, Modificar, Buscar, Eliminiar, Cancelar (el orden es segun convenga en cada formulario, si una de esas acciones no aparece
+solo omitanla)todos en la parte inferior del formulario*/
+
+
+/* Link de iconos de bootstrap 
+el de regresar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-chevron-left"></span></button>
+el de guardar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-floppy-disk"></span></button>
+el de cerrar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-remove"></span></button>
+el de importar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-import"></span></button>
+el de eliminar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-trash"></span></button>
+el de cancelar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-floppy-remove"></span></button>
+el de modificar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-floppy-pencil"></span></button>
+el de buscar es = <button type="button" class="btn btn-default btn-lg"><span class="glyphicon glyphicon-floppy-search"></span></button>
+*/
+https://librosweb.es/libro/bootstrap_3/capitulo_6/iconos_glyphicons.html
+
+
+/* Link de botones de bootstrap, usen los que son default por favor, si quieren meterlos en una caja usen los
+contenedores de botones= <button type="button" class="btn btn-default btn-lg btn-block">Botón de bloque</button>			*/
+https://librosweb.es/libro/bootstrap_3/capitulo_5/botones.html

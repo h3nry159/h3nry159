@@ -1,0 +1,105 @@
+body{
+	text-align: center;
+	background-image: url(../image/bground.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	font: 17px sans-serif;
+	color: #FFFFFF;
+}
+
+h1{
+	font-size: 40px;
+	font-weight: bold;
+}
+
+.container-fluid{
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+
+#myNavbar {
+	border-radius: 5px;
+	border: 1px #474C52 solid;
+	
+}
+
+#projects{
+	color: #2D3035;
+	background-color: #ffffff;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+#brand{
+	letter-spacing: 2px;
+	font-size: 15px;
+	font-family: sans-serif;
+
+}
+
+#brand:hover{
+	font-size: 17px;
+	font-family: sans-serif;
+}
+
+#nav-items li a{
+	font-size: 13px;
+	font-weight: bold;;
+	letter-spacing: 3px;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	padding-right: 30px;
+	padding-left: 30px;
+
+}
+
+#nav-items li a:hover {
+	color: #69717B;
+	
+}
+
+
+#know-me{
+	letter-spacing: 1px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+
+
+#know-me img{
+	width: 256px;
+	height: 340px;
+	margin: 40px auto 30px auto;
+}
+
+#videos{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+}
+header#banner{
+	/*opacity: 0.5;*/
+}
+
+.glyphicon {
+	font-size: 35px;
+	
+	margin-top: 15px;
+	margin-bottom: 15px;
+	box-shadow: 1px 1px 2px 2px #929DAA ;
+
+}
+
+
+div.row{
+	margin-bottom: 50px;
+}
+
+#button a{
+	background-color: #0D7DE5;
+	border:none;
+}
